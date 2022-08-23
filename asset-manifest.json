@@ -1,0 +1,34 @@
+{
+  "files": {
+    "app.js": "/RNWorkTravelHardApp/static/js/app.ac641908.chunk.js",
+    "app.js.map": "/RNWorkTravelHardApp/static/js/app.ac641908.chunk.js.map",
+    "runtime~app.js": "/RNWorkTravelHardApp/static/js/runtime~app.aafae59c.js",
+    "runtime~app.js.map": "/RNWorkTravelHardApp/static/js/runtime~app.aafae59c.js.map",
+    "static/js/2.b9196c25.chunk.js": "/RNWorkTravelHardApp/static/js/2.b9196c25.chunk.js",
+    "static/js/2.b9196c25.chunk.js.map": "/RNWorkTravelHardApp/static/js/2.b9196c25.chunk.js.map",
+    "fonts/AntDesign.ttf": "/RNWorkTravelHardApp/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/RNWorkTravelHardApp/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/RNWorkTravelHardApp/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/RNWorkTravelHardApp/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/RNWorkTravelHardApp/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/RNWorkTravelHardApp/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/RNWorkTravelHardApp/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/RNWorkTravelHardApp/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/RNWorkTravelHardApp/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/RNWorkTravelHardApp/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/RNWorkTravelHardApp/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/RNWorkTravelHardApp/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/RNWorkTravelHardApp/favicon-16.png",
+    "favicon-32.png": "/RNWorkTravelHardApp/favicon-32.png",
+    "favicon.ico": "/RNWorkTravelHardApp/favicon.ico",
+    "index.html": "/RNWorkTravelHardApp/index.html",
+    "manifest.json": "/RNWorkTravelHardApp/manifest.json",
+    "serve.json": "/RNWorkTravelHardApp/serve.json",
+    "static/js/2.b9196c25.chunk.js.LICENSE.txt": "/RNWorkTravelHardApp/static/js/2.b9196c25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.aafae59c.js",
+    "static/js/2.b9196c25.chunk.js",
+    "static/js/app.ac641908.chunk.js"
+  ]
+}
